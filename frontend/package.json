@@ -9,12 +9,12 @@
     "exec": "PATH=$(npm bin):$PATH"
   },
   "dependencies": {
-    "axios": "0.21.2",
+    "axios": "0.26.1",
     "bootstrap-vue": "2.0.0-rc.12",
     "core-js": "^3.21.1",
     "less": "^3.13.1",
     "less-loader": "^7.0.2",
-    "uikit": "^3.5.9",
+    "uikit": "^3.11.1",
     "vue": "2.5.13",
     "vue-instantsearch": "2.7.0",
     "vue-router": "^3.4.7",
