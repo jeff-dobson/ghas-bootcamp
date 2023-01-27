@@ -9,7 +9,7 @@
     "exec": "PATH=$(npm bin):$PATH"
   },
   "dependencies": {
-    "axios": "0.21.2",
+    "axios": "1.2.5",
     "bootstrap-vue": "2.0.0-rc.12",
     "core-js": "^3.21.1",
     "less": "^3.13.1",
